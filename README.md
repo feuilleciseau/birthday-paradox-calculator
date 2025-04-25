@@ -26,7 +26,7 @@ If you don’t have Python installed, download it from:
 ### 2. Clone the project
 
 ```bash
-git clone https://github.com/feuilleciseau/birthday-paradox-calculator.git
+git clone git@github.com:feuilleciseau/birthday-paradox-calculator.git
 cd birthday-paradox-calculator
 ```
 
